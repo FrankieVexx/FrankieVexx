@@ -5,7 +5,6 @@
 
 
 <div id="badges" align="center" margin-top = 20px>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="" align="center"/>
   <a href="https://www.linkedin.com/in/francis-onyach-73190011b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
