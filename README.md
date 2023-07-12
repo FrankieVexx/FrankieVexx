@@ -1,10 +1,10 @@
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="100"/>
 </div>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrankieVexx)
 
-<div id="badges" align="center" margin-top = 20px>
+<div id="badges" align="left" margin-top = 20px>
   <a href="https://www.linkedin.com/in/francis-onyach-73190011b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
