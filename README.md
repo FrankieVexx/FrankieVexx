@@ -29,7 +29,7 @@ Hi there 👋
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
 
-###My Socials
+MY SOCIALS
 
 <div id="badges" align="left" margin-top = 20px>
   <a href="https://www.linkedin.com/in/francis-onyach-73190011b/">
