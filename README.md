@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="100"/>
 </div>
 
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrankieVexx)
 
 <div id="badges" align="center" margin-top = 20px>
   <a href="https://www.linkedin.com/in/francis-onyach-73190011b/">
