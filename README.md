@@ -16,7 +16,8 @@ Hi there 👋
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrankieVexx)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrankieVexx&layout=compact"/>
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
