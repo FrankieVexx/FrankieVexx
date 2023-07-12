@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="100"/>
 </div>
 ![](https://pixabay.com/vectors/code-bracket-cling-slash-greater-1970468/)
-### Hi there 👋
+###
+Hi there 👋
 * 👂 My name is Francis
 * 🔭 I’m currently training as a fullstack developer
 * 🌱 I’m working on a project findit...
@@ -11,7 +12,7 @@
 * 📫 How to reach me: Email: franblog7@gmail.com...
 * ❤️ I love music, my biggest obsession and first love followed by coding...
 * ⚡ Fun fact: I sing all the time...
-
+###
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrankieVexx)
 
 <div id="badges" align="left" margin-top = 20px>
